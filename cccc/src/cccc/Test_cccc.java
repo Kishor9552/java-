@@ -18,5 +18,13 @@ public class Test_cccc {
 		System.out.println(sum);
 		return sum;
 	}
+	public static int multiplication(){
+		int a=20;
+		int b=30;
+		int product=a*b;
+		system.out.println(product);
+		
+			
 
+}
 }
